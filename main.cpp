@@ -1,5 +1,5 @@
 // Ryan Reddemann
-// CMPS 3350 - lab 02 is about source control
+// CMPS 3350 - lab 02 is about source control AND git
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
 
