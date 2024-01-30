@@ -1,1 +1,2 @@
 I have never used git and my lack of knowledge makes me scared when running different comnads because I don't know them yet. 
+Change from new_branch
